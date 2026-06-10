@@ -1,4 +1,4 @@
-require('dotenv').config();
+// Configuration serveur Express — Cafétéria ENSPM | HAWAOU MOUSSArequire('dotenv').config();
 const express   = require('express');
 const mongoose  = require('mongoose');
 const cors      = require('cors');
