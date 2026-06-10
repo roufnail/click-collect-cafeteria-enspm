@@ -36,7 +36,7 @@ npm run dev
 
 ## Équipe
 - [AHMADOU ROUFAI-IC4_SEC] — Chef de projet / Architecture
-- [AZEMO STIVE IVRIC-IC4_DSC] — Lead Back-End
+- [AZEMO STEVE IVRIC-IC4_DSC] — Lead Back-End
 - [HAWAOU MOUSSA-IC4_DSC] — Back-End / Config
 - [WANGBI DOURGA HONORE-IC4_DSC] — Lead Front-End
 - [SINGA FREDERIC-IC3_SEC] — Front-End / Intégration
