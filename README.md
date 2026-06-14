@@ -35,8 +35,8 @@ npm run dev
 - **Base de données** : MongoDB + Mongoose
 
 ## Équipe
-- [AHMADOU ROUFAI-IC4_SEC] — Chef de projet / Architecture
-- [AZEMO STEVE IVRIC-IC4_DSC] — Lead Back-End
-- [HAWAOU MOUSSA-IC4_DSC] — Back-End / Config
-- [WANGBI DOURGA HONORE-IC4_DSC] — Lead Front-End
-- [SINGA FREDERIC-IC3_SEC] — Front-End / Intégration
+- [AHMADOU ROUFAI-IC4_SEC]
+- [AZEMO STEVE IVRIC-IC4_DSC]
+- [HAWAOU MOUSSA-IC4_DSC] 
+- [WANGBI DOURGA HONORE-IC4_DSC] 
+- [SINGA FREDERIC-IC3_SEC]
